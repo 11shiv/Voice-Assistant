@@ -64,7 +64,7 @@ def sendEmail(to, content):
 
 if __name__ == "__main__":
     wishMe()
-    # speak("Aryan Anshuman is a good boy")
+    # speak("Shiv Kumar is a good boy")
     while True:
         query = takeCommand().lower()   # Convert to lowercase letters
         if 'wikipedia' in query:
